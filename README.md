@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 December 2023 - To: 09 January 2024
+From: 29 December 2023 - To: 10 January 2024
 
-Total Time: 23 hrs 52 mins
+Total Time: 28 hrs 1 min
 
-Blade Template   11 hrs 53 mins  >>>>>>>>>>>>-------------   49.51 %
-PHP              9 hrs 12 mins   >>>>>>>>>>---------------   38.32 %
-Go               46 mins         >------------------------   03.24 %
-Markdown         35 mins         >------------------------   02.46 %
-HTML             32 mins         >------------------------   02.25 %
-JavaScript       20 mins         -------------------------   01.40 %
-Bash             13 mins         -------------------------   00.94 %
-Other            7 mins          -------------------------   00.53 %
+Blade Template   13 hrs 22 mins  >>>>>>>>>>>>-------------   47.54 %
+PHP              11 hrs 28 mins  >>>>>>>>>>---------------   40.76 %
+Go               46 mins         >------------------------   02.77 %
+Markdown         43 mins         >------------------------   02.57 %
+HTML             41 mins         >------------------------   02.45 %
+JavaScript       25 mins         -------------------------   01.53 %
+Bash             13 mins         -------------------------   00.80 %
+Other            7 mins          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
