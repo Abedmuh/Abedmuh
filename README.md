@@ -1,7 +1,7 @@
-<h3 align="center">========================================================================</h3>
+<h3 align="center">=====================================================================</h3>
 <h1 align="center">Hi 👋, I'm Abdillah</h1>
 <h3 align="center">I am website developer and programmer. I'm always eager to learn new things. I thrive on problem-solving and enjoy bringing ideas to life through websites. I'm dedicated to continuously refining both my technical and creative skills to deliver outstanding web solutions. I believe that effective websites can enhance productivity and help more people solve their problems.</h3>
-<h3 align="center">========================================================================</h3>
+<h3 align="center">=====================================================================</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="center">
@@ -31,11 +31,8 @@
   </a>
 </p>
 
-<h3 align="center">========================================================================</h3>
+<h3 align="center">=====================================================================</h3>
 
-<p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abedmuh&" alt="abedmuh" />
-</p>
 <!--START_SECTION:waka-->
 
 ```rust
