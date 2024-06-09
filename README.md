@@ -36,20 +36,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 December 2023 - To: 06 June 2024
+From: 29 December 2023 - To: 07 June 2024
 
-Total Time: 793 hrs 36 mins
+Total Time: 801 hrs 33 mins
 
-JavaScript       310 hrs 30 mins >>>>>>>>>>---------------   38.99 %
-Go               263 hrs 18 mins >>>>>>>>-----------------   33.06 %
-YAML             48 hrs 49 mins  >>-----------------------   06.13 %
-PHP              34 hrs 35 mins  >------------------------   04.34 %
-Blade Template   26 hrs 2 mins   >------------------------   03.27 %
-Markdown         25 hrs 20 mins  >------------------------   03.18 %
-SQL              19 hrs 50 mins  >------------------------   02.49 %
-JSON             14 hrs 28 mins  -------------------------   01.82 %
-Bash             12 hrs 18 mins  -------------------------   01.54 %
-Docker           8 hrs 1 min     -------------------------   01.01 %
+JavaScript       310 hrs 30 mins >>>>>>>>>>---------------   38.61 %
+Go               270 hrs 23 mins >>>>>>>>-----------------   33.62 %
+YAML             48 hrs 49 mins  >>-----------------------   06.07 %
+PHP              34 hrs 35 mins  >------------------------   04.30 %
+Blade Template   26 hrs 2 mins   >------------------------   03.24 %
+Markdown         25 hrs 20 mins  >------------------------   03.15 %
+SQL              20 hrs 42 mins  >------------------------   02.57 %
+JSON             14 hrs 28 mins  -------------------------   01.80 %
+Bash             12 hrs 18 mins  -------------------------   01.53 %
+Docker           8 hrs 1 min     -------------------------   01.00 %
 ```
 
 <!--END_SECTION:waka-->
