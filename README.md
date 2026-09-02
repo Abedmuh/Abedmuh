@@ -29,19 +29,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 29 December 2023 - To: 30 August 2026
+From: 29 December 2023 - To: 31 August 2026
 
-Total Time: 1,587 hrs 30 mins
+Total Time: 1,589 hrs 3 mins
 
-Go                         440 hrs 43 mins       >>>>>>>------------------   27.25 %
-JavaScript                 347 hrs 24 mins       >>>>>--------------------   21.48 %
-PHP                        129 hrs 59 mins       >>-----------------------   08.04 %
-Markdown                   116 hrs 13 mins       >>-----------------------   07.19 %
-TypeScript                 84 hrs 28 mins        >------------------------   05.22 %
-Vue                        73 hrs 30 mins        >------------------------   04.55 %
-Blade Template             50 hrs 32 mins        >------------------------   03.13 %
+Go                         440 hrs 43 mins       >>>>>>>------------------   27.20 %
+JavaScript                 347 hrs 24 mins       >>>>>--------------------   21.44 %
+PHP                        129 hrs 59 mins       >>-----------------------   08.02 %
+Markdown                   116 hrs 13 mins       >>-----------------------   07.17 %
+TypeScript                 84 hrs 28 mins        >------------------------   05.21 %
+Vue                        73 hrs 30 mins        >------------------------   04.54 %
+Blade Template             50 hrs 32 mins        >------------------------   03.12 %
+SQL                        42 hrs 7 mins         >------------------------   02.60 %
 Bash                       42 hrs 6 mins         >------------------------   02.60 %
-SQL                        41 hrs 36 mins        >------------------------   02.57 %
 ```
 
 <!--END_SECTION:waka-->
